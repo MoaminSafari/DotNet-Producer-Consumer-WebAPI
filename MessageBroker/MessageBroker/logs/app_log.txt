@@ -1,0 +1,505 @@
+2025-02-14 12:44:25 [Info] Message Broker Started...
+2025-02-14 12:44:27 [Info] Test API endpoint called
+2025-02-14 12:44:27 [Info] Loading queues from file...
+2025-02-14 12:44:27 [Info] Loading queues from file...
+2025-02-14 12:44:27 [Info] Queue request received
+2025-02-14 12:44:46 [Info] Publish request received from p1
+2025-02-14 12:44:46 [Info] Creating new queue for p1
+2025-02-14 12:44:46 [Info] Enqueuing message from p1
+2025-02-14 12:44:46 [Info] Backing up queues to file...
+2025-02-14 12:44:46 [Info] Queue backed up for p1
+2025-02-14 12:44:46 [Info] From p1, Message 438c5 received
+2025-02-14 12:44:47 [Info] Publish request received from p1
+2025-02-14 12:44:47 [Info] Enqueuing message from p1
+2025-02-14 12:44:47 [Info] Backing up queues to file...
+2025-02-14 12:44:47 [Info] Queue backed up for p1
+2025-02-14 12:44:47 [Info] From p1, Message 85 received
+2025-02-14 12:44:48 [Info] Publish request received from p1
+2025-02-14 12:44:48 [Info] Enqueuing message from p1
+2025-02-14 12:44:48 [Info] Backing up queues to file...
+2025-02-14 12:44:48 [Info] Queue backed up for p1
+2025-02-14 12:44:48 [Info] From p1, Message f217b received
+2025-02-14 12:44:49 [Info] Publish request received from p1
+2025-02-14 12:44:49 [Info] Enqueuing message from p1
+2025-02-14 12:44:49 [Info] Backing up queues to file...
+2025-02-14 12:44:49 [Info] Queue backed up for p1
+2025-02-14 12:44:49 [Info] From p1, Message 21 received
+2025-02-14 12:44:50 [Info] Publish request received from p1
+2025-02-14 12:44:50 [Info] Enqueuing message from p1
+2025-02-14 12:44:50 [Info] Backing up queues to file...
+2025-02-14 12:44:50 [Info] Queue backed up for p1
+2025-02-14 12:44:50 [Info] From p1, Message 17ffe received
+2025-02-14 12:44:51 [Info] Publish request received from p1
+2025-02-14 12:44:51 [Info] Enqueuing message from p1
+2025-02-14 12:44:51 [Info] Backing up queues to file...
+2025-02-14 12:44:51 [Info] Queue backed up for p1
+2025-02-14 12:44:51 [Info] From p1, Message b2a4c received
+2025-02-14 12:44:52 [Info] Publish request received from p1
+2025-02-14 12:44:52 [Info] Enqueuing message from p1
+2025-02-14 12:44:52 [Info] Backing up queues to file...
+2025-02-14 12:44:52 [Info] Queue backed up for p1
+2025-02-14 12:44:52 [Info] From p1, Message 53 received
+2025-02-14 12:44:53 [Info] Publish request received from p1
+2025-02-14 12:44:53 [Info] Enqueuing message from p1
+2025-02-14 12:44:53 [Info] Backing up queues to file...
+2025-02-14 12:44:53 [Info] Queue backed up for p1
+2025-02-14 12:44:53 [Info] From p1, Message W received
+2025-02-14 12:44:54 [Info] Publish request received from p1
+2025-02-14 12:44:54 [Info] Enqueuing message from p1
+2025-02-14 12:44:54 [Info] Backing up queues to file...
+2025-02-14 12:44:54 [Info] Queue backed up for p1
+2025-02-14 12:44:54 [Info] From p1, Message Y received
+2025-02-14 12:44:55 [Info] Publish request received from p1
+2025-02-14 12:44:55 [Info] Enqueuing message from p1
+2025-02-14 12:44:55 [Info] Backing up queues to file...
+2025-02-14 12:44:55 [Info] Queue backed up for p1
+2025-02-14 12:44:55 [Info] From p1, Message 70 received
+2025-02-14 12:44:56 [Info] Publish request received from p1
+2025-02-14 12:44:56 [Info] Enqueuing message from p1
+2025-02-14 12:44:56 [Info] Backing up queues to file...
+2025-02-14 12:44:56 [Info] Queue backed up for p1
+2025-02-14 12:44:56 [Info] From p1, Message P received
+2025-02-14 12:44:57 [Info] Publish request received from p1
+2025-02-14 12:44:57 [Info] Enqueuing message from p1
+2025-02-14 12:44:57 [Info] Backing up queues to file...
+2025-02-14 12:44:57 [Info] Queue backed up for p1
+2025-02-14 12:44:57 [Info] From p1, Message 41 received
+2025-02-14 12:44:58 [Info] Publish request received from p1
+2025-02-14 12:44:58 [Info] Enqueuing message from p1
+2025-02-14 12:44:58 [Info] Backing up queues to file...
+2025-02-14 12:44:58 [Info] Queue backed up for p1
+2025-02-14 12:44:58 [Info] From p1, Message 29 received
+2025-02-14 12:44:59 [Info] Publish request received from p1
+2025-02-14 12:44:59 [Info] Enqueuing message from p1
+2025-02-14 12:44:59 [Info] Backing up queues to file...
+2025-02-14 12:44:59 [Info] Queue backed up for p1
+2025-02-14 12:44:59 [Info] From p1, Message 17 received
+2025-02-14 12:45:00 [Info] Publish request received from p1
+2025-02-14 12:45:00 [Info] Enqueuing message from p1
+2025-02-14 12:45:00 [Info] Backing up queues to file...
+2025-02-14 12:45:00 [Info] Queue backed up for p1
+2025-02-14 12:45:00 [Info] From p1, Message 93 received
+2025-02-14 12:45:01 [Info] Publish request received from p1
+2025-02-14 12:45:01 [Info] Enqueuing message from p1
+2025-02-14 12:45:01 [Info] Backing up queues to file...
+2025-02-14 12:45:01 [Info] Queue backed up for p1
+2025-02-14 12:45:01 [Info] From p1, Message 95 received
+2025-02-14 12:45:02 [Info] Publish request received from p1
+2025-02-14 12:45:02 [Info] Enqueuing message from p1
+2025-02-14 12:45:02 [Info] Backing up queues to file...
+2025-02-14 12:45:02 [Info] Queue backed up for p1
+2025-02-14 12:45:02 [Info] From p1, Message 67 received
+2025-02-14 12:45:03 [Info] Publish request received from p1
+2025-02-14 12:45:03 [Info] Enqueuing message from p1
+2025-02-14 12:45:03 [Info] Backing up queues to file...
+2025-02-14 12:45:03 [Info] Queue backed up for p1
+2025-02-14 12:45:03 [Info] From p1, Message N received
+2025-02-14 12:46:02 [Info] Queue request received
+2025-02-14 12:46:13 [Info] Message Broker Started...
+2025-02-14 12:46:14 [Info] Test API endpoint called
+2025-02-14 12:46:14 [Info] Loading queues from file...
+2025-02-14 12:46:14 [Info] Loading queues from file...
+2025-02-14 12:46:14 [Info] Queue request received
+2025-02-14 12:49:30 [Info] Message Broker Started...
+2025-02-14 12:49:31 [Info] Test API endpoint called
+2025-02-14 12:49:31 [Info] Loading queues from file...
+2025-02-14 12:49:31 [Info] Loading queues from file...
+2025-02-14 12:49:31 [Info] Loading backup for p1
+2025-02-14 12:49:31 [Info] Creating new queue for p1
+2025-02-14 12:49:31 [Info] Enqueuing item for p1
+2025-02-14 12:49:31 [Info] Enqueuing item for p1
+2025-02-14 12:49:31 [Info] Loading backup for p2
+2025-02-14 12:49:31 [Info] Creating new queue for p2
+2025-02-14 12:49:31 [Info] Enqueuing item for p2
+2025-02-14 12:49:31 [Info] Enqueuing item for p2
+2025-02-14 12:49:31 [Info] Queue request received
+2025-02-14 12:50:20 [Info] Queue request received
+2025-02-14 12:50:56 [Info] Message Broker Started...
+2025-02-14 12:50:57 [Info] Test API endpoint called
+2025-02-14 12:50:57 [Info] Loading queues from file...
+2025-02-14 12:50:57 [Info] Loading queues from file...
+2025-02-14 12:50:57 [Info] Queue request received
+2025-02-14 12:51:09 [Info] Publish request received from p1
+2025-02-14 12:51:09 [Info] Creating new queue for p1
+2025-02-14 12:51:09 [Info] Enqueuing message from p1
+2025-02-14 12:51:09 [Info] Backing up queues to file...
+2025-02-14 12:51:09 [Info] Queue backed up for p1
+2025-02-14 12:51:09 [Info] From p1, Message P received
+2025-02-14 12:51:09 [Info] Publish request received from p1
+2025-02-14 12:51:09 [Info] Enqueuing message from p1
+2025-02-14 12:51:09 [Info] Backing up queues to file...
+2025-02-14 12:51:09 [Info] Queue backed up for p1
+2025-02-14 12:51:09 [Info] From p1, Message V received
+2025-02-14 12:51:10 [Info] Publish request received from p1
+2025-02-14 12:51:10 [Info] Enqueuing message from p1
+2025-02-14 12:51:10 [Info] Backing up queues to file...
+2025-02-14 12:51:10 [Info] Queue backed up for p1
+2025-02-14 12:51:10 [Info] From p1, Message 36 received
+2025-02-14 12:51:11 [Info] Publish request received from p1
+2025-02-14 12:51:11 [Info] Enqueuing message from p1
+2025-02-14 12:51:11 [Info] Backing up queues to file...
+2025-02-14 12:51:11 [Info] Queue backed up for p1
+2025-02-14 12:51:11 [Info] From p1, Message B received
+2025-02-14 12:51:12 [Info] Publish request received from p1
+2025-02-14 12:51:12 [Info] Enqueuing message from p1
+2025-02-14 12:51:12 [Info] Backing up queues to file...
+2025-02-14 12:51:12 [Info] Queue backed up for p1
+2025-02-14 12:51:12 [Info] From p1, Message 3e5e5 received
+2025-02-14 12:51:13 [Info] Publish request received from p1
+2025-02-14 12:51:13 [Info] Enqueuing message from p1
+2025-02-14 12:51:13 [Info] Backing up queues to file...
+2025-02-14 12:51:13 [Info] Queue backed up for p1
+2025-02-14 12:51:13 [Info] From p1, Message 1 received
+2025-02-14 12:51:14 [Info] Publish request received from p1
+2025-02-14 12:51:14 [Info] Enqueuing message from p1
+2025-02-14 12:51:14 [Info] Backing up queues to file...
+2025-02-14 12:51:14 [Info] Queue backed up for p1
+2025-02-14 12:51:14 [Info] From p1, Message 69 received
+2025-02-14 12:51:15 [Info] Publish request received from p1
+2025-02-14 12:51:15 [Info] Enqueuing message from p1
+2025-02-14 12:51:15 [Info] Backing up queues to file...
+2025-02-14 12:51:15 [Info] Queue backed up for p1
+2025-02-14 12:51:15 [Info] From p1, Message 4af2f received
+2025-02-14 12:51:16 [Info] Publish request received from p1
+2025-02-14 12:51:16 [Info] Enqueuing message from p1
+2025-02-14 12:51:16 [Info] Backing up queues to file...
+2025-02-14 12:51:16 [Info] Queue backed up for p1
+2025-02-14 12:51:16 [Info] From p1, Message R received
+2025-02-14 12:51:17 [Info] Publish request received from p1
+2025-02-14 12:51:17 [Info] Enqueuing message from p1
+2025-02-14 12:51:17 [Info] Backing up queues to file...
+2025-02-14 12:51:17 [Info] Queue backed up for p1
+2025-02-14 12:51:17 [Info] From p1, Message 11 received
+2025-02-14 12:51:18 [Info] Publish request received from p1
+2025-02-14 12:51:18 [Info] Enqueuing message from p1
+2025-02-14 12:51:18 [Info] Backing up queues to file...
+2025-02-14 12:51:18 [Info] Queue backed up for p1
+2025-02-14 12:51:18 [Info] From p1, Message N received
+2025-02-14 12:51:19 [Info] Publish request received from p1
+2025-02-14 12:51:19 [Info] Enqueuing message from p1
+2025-02-14 12:51:19 [Info] Backing up queues to file...
+2025-02-14 12:51:19 [Info] Queue backed up for p1
+2025-02-14 12:51:19 [Info] From p1, Message C received
+2025-02-14 12:51:20 [Info] Publish request received from p1
+2025-02-14 12:51:20 [Info] Enqueuing message from p1
+2025-02-14 12:51:20 [Info] Backing up queues to file...
+2025-02-14 12:51:20 [Info] Queue backed up for p1
+2025-02-14 12:51:20 [Info] From p1, Message 71 received
+2025-02-14 12:51:21 [Info] Publish request received from p1
+2025-02-14 12:51:21 [Info] Enqueuing message from p1
+2025-02-14 12:51:21 [Info] Backing up queues to file...
+2025-02-14 12:51:21 [Info] Queue backed up for p1
+2025-02-14 12:51:21 [Info] From p1, Message S received
+2025-02-14 12:51:22 [Info] Publish request received from p1
+2025-02-14 12:51:22 [Info] Enqueuing message from p1
+2025-02-14 12:51:22 [Info] Backing up queues to file...
+2025-02-14 12:51:22 [Info] Queue backed up for p1
+2025-02-14 12:51:22 [Info] From p1, Message P received
+2025-02-14 12:51:23 [Info] Publish request received from p1
+2025-02-14 12:51:23 [Info] Enqueuing message from p1
+2025-02-14 12:51:23 [Info] Backing up queues to file...
+2025-02-14 12:51:23 [Info] Queue backed up for p1
+2025-02-14 12:51:23 [Info] From p1, Message 50 received
+2025-02-14 12:51:24 [Info] Publish request received from p1
+2025-02-14 12:51:24 [Info] Enqueuing message from p1
+2025-02-14 12:51:24 [Info] Backing up queues to file...
+2025-02-14 12:51:24 [Info] Queue backed up for p1
+2025-02-14 12:51:24 [Info] From p1, Message bb7a6 received
+2025-02-14 12:51:29 [Info] Publish request received from p2
+2025-02-14 12:51:29 [Info] Creating new queue for p2
+2025-02-14 12:51:29 [Info] Enqueuing message from p2
+2025-02-14 12:51:29 [Info] Backing up queues to file...
+2025-02-14 12:51:29 [Info] Queue backed up for p1
+2025-02-14 12:51:29 [Info] Queue backed up for p2
+2025-02-14 12:51:29 [Info] From p2, Message G received
+2025-02-14 12:51:30 [Info] Publish request received from p2
+2025-02-14 12:51:30 [Info] Enqueuing message from p2
+2025-02-14 12:51:30 [Info] Backing up queues to file...
+2025-02-14 12:51:30 [Info] Queue backed up for p1
+2025-02-14 12:51:30 [Info] Queue backed up for p2
+2025-02-14 12:51:30 [Info] From p2, Message 38 received
+2025-02-14 12:51:31 [Info] Publish request received from p2
+2025-02-14 12:51:31 [Info] Enqueuing message from p2
+2025-02-14 12:51:31 [Info] Backing up queues to file...
+2025-02-14 12:51:31 [Info] Queue backed up for p1
+2025-02-14 12:51:31 [Info] Queue backed up for p2
+2025-02-14 12:51:31 [Info] From p2, Message 97 received
+2025-02-14 12:51:32 [Info] Publish request received from p2
+2025-02-14 12:51:32 [Info] Enqueuing message from p2
+2025-02-14 12:51:32 [Info] Backing up queues to file...
+2025-02-14 12:51:32 [Info] Queue backed up for p1
+2025-02-14 12:51:32 [Info] Queue backed up for p2
+2025-02-14 12:51:32 [Info] From p2, Message 50 received
+2025-02-14 12:51:35 [Info] Queue request received
+2025-02-14 12:51:46 [Info] Message Broker Started...
+2025-02-14 12:51:46 [Info] Test API endpoint called
+2025-02-14 12:51:46 [Info] Loading queues from file...
+2025-02-14 12:51:46 [Info] Loading queues from file...
+2025-02-14 12:51:46 [Info] Loading backup for p1
+2025-02-14 12:51:46 [Info] Creating new queue for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Enqueuing item for p1
+2025-02-14 12:51:46 [Info] Loading backup for p2
+2025-02-14 12:51:46 [Info] Creating new queue for p2
+2025-02-14 12:51:46 [Info] Enqueuing item for p2
+2025-02-14 12:51:46 [Info] Enqueuing item for p2
+2025-02-14 12:51:46 [Info] Enqueuing item for p2
+2025-02-14 12:51:46 [Info] Enqueuing item for p2
+2025-02-14 12:51:46 [Info] Queue request received
+2025-02-14 12:52:48 [Info] Consume request received for p2
+2025-02-14 12:52:48 [Info] Backing up queues to file...
+2025-02-14 12:52:48 [Info] Queue backed up for p1
+2025-02-14 12:52:48 [Info] Queue backed up for p2
+2025-02-14 12:52:48 [Info] Message sent: G
+2025-02-14 12:52:49 [Info] Consume request received for p2
+2025-02-14 12:52:49 [Info] Backing up queues to file...
+2025-02-14 12:52:49 [Info] Queue backed up for p1
+2025-02-14 12:52:49 [Info] Queue backed up for p2
+2025-02-14 12:52:49 [Info] Message sent: 38
+2025-02-14 12:52:50 [Info] Consume request received for p2
+2025-02-14 12:52:50 [Info] Backing up queues to file...
+2025-02-14 12:52:50 [Info] Queue backed up for p1
+2025-02-14 12:52:50 [Info] Queue backed up for p2
+2025-02-14 12:52:50 [Info] Message sent: 97
+2025-02-14 12:52:51 [Info] Consume request received for p2
+2025-02-14 12:52:51 [Info] Backing up queues to file...
+2025-02-14 12:52:51 [Info] Queue backed up for p1
+2025-02-14 12:52:51 [Info] Queue backed up for p2
+2025-02-14 12:52:51 [Info] Message sent: 50
+2025-02-14 12:52:52 [Info] Consume request received for p2
+2025-02-14 12:52:52 [Info] No message found for p2
+2025-02-14 12:52:54 [Info] Consume request received for p2
+2025-02-14 12:52:54 [Info] No message found for p2
+2025-02-14 12:52:55 [Info] Consume request received for p2
+2025-02-14 12:52:55 [Info] No message found for p2
+2025-02-14 12:52:56 [Info] Consume request received for p2
+2025-02-14 12:52:56 [Info] No message found for p2
+2025-02-14 12:52:57 [Info] Consume request received for p2
+2025-02-14 12:52:57 [Info] No message found for p2
+2025-02-14 12:52:58 [Info] Consume request received for p2
+2025-02-14 12:52:58 [Info] No message found for p2
+2025-02-14 12:53:34 [Info] Queue request received
+2025-02-14 12:53:35 [Info] Queue request received
+2025-02-14 12:53:47 [Info] Message Broker Started...
+2025-02-14 12:53:48 [Info] Test API endpoint called
+2025-02-14 12:53:48 [Info] Loading queues from file...
+2025-02-14 12:53:48 [Info] Loading queues from file...
+2025-02-14 12:53:48 [Info] Loading backup for p1
+2025-02-14 12:53:48 [Info] Creating new queue for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Enqueuing item for p1
+2025-02-14 12:53:48 [Info] Loading backup for p2
+2025-02-14 12:53:48 [Info] Creating new queue for p2
+2025-02-14 12:53:48 [Info] Queue request received
+2025-02-14 12:54:22 [Info] Publish request received from p1
+2025-02-14 12:54:22 [Info] Enqueuing message from p1
+2025-02-14 12:54:22 [Info] Backing up queues to file...
+2025-02-14 12:54:22 [Info] Queue backed up for p1
+2025-02-14 12:54:22 [Info] Queue backed up for p2
+2025-02-14 12:54:22 [Info] From p1, Message T received
+2025-02-14 12:54:22 [Info] Publish request received from p1
+2025-02-14 12:54:22 [Info] Enqueuing message from p1
+2025-02-14 12:54:22 [Info] Backing up queues to file...
+2025-02-14 12:54:22 [Info] Queue backed up for p1
+2025-02-14 12:54:22 [Info] Queue backed up for p2
+2025-02-14 12:54:22 [Info] From p1, Message 9fe97 received
+2025-02-14 12:54:23 [Info] Publish request received from p1
+2025-02-14 12:54:23 [Info] Enqueuing message from p1
+2025-02-14 12:54:23 [Info] Backing up queues to file...
+2025-02-14 12:54:23 [Info] Queue backed up for p1
+2025-02-14 12:54:23 [Info] Queue backed up for p2
+2025-02-14 12:54:23 [Info] From p1, Message 58 received
+2025-02-14 12:54:24 [Info] Publish request received from p1
+2025-02-14 12:54:24 [Info] Enqueuing message from p1
+2025-02-14 12:54:24 [Info] Backing up queues to file...
+2025-02-14 12:54:24 [Info] Queue backed up for p1
+2025-02-14 12:54:24 [Info] Queue backed up for p2
+2025-02-14 12:54:24 [Info] From p1, Message 60 received
+2025-02-14 12:54:25 [Info] Publish request received from p1
+2025-02-14 12:54:25 [Info] Enqueuing message from p1
+2025-02-14 12:54:25 [Info] Backing up queues to file...
+2025-02-14 12:54:25 [Info] Queue backed up for p1
+2025-02-14 12:54:25 [Info] Queue backed up for p2
+2025-02-14 12:54:25 [Info] From p1, Message 6ee3e received
+2025-02-14 12:54:26 [Info] Publish request received from p1
+2025-02-14 12:54:26 [Info] Enqueuing message from p1
+2025-02-14 12:54:26 [Info] Backing up queues to file...
+2025-02-14 12:54:26 [Info] Queue backed up for p1
+2025-02-14 12:54:26 [Info] Queue backed up for p2
+2025-02-14 12:54:26 [Info] From p1, Message F received
+2025-02-14 12:54:27 [Info] Publish request received from p1
+2025-02-14 12:54:27 [Info] Enqueuing message from p1
+2025-02-14 12:54:27 [Info] Backing up queues to file...
+2025-02-14 12:54:27 [Info] Queue backed up for p1
+2025-02-14 12:54:27 [Info] Queue backed up for p2
+2025-02-14 12:54:27 [Info] From p1, Message 20 received
+2025-02-14 12:54:28 [Info] Publish request received from p1
+2025-02-14 12:54:28 [Info] Enqueuing message from p1
+2025-02-14 12:54:28 [Info] Backing up queues to file...
+2025-02-14 12:54:28 [Info] Queue backed up for p1
+2025-02-14 12:54:28 [Info] Queue backed up for p2
+2025-02-14 12:54:28 [Info] From p1, Message 12a6a received
+2025-02-14 12:54:29 [Info] Publish request received from p1
+2025-02-14 12:54:29 [Info] Enqueuing message from p1
+2025-02-14 12:54:29 [Info] Backing up queues to file...
+2025-02-14 12:54:29 [Info] Queue backed up for p1
+2025-02-14 12:54:29 [Info] Queue backed up for p2
+2025-02-14 12:54:29 [Info] From p1, Message S received
+2025-02-14 12:54:30 [Info] Publish request received from p1
+2025-02-14 12:54:30 [Info] Enqueuing message from p1
+2025-02-14 12:54:30 [Info] Backing up queues to file...
+2025-02-14 12:54:30 [Info] Queue backed up for p1
+2025-02-14 12:54:30 [Info] Queue backed up for p2
+2025-02-14 12:54:30 [Info] From p1, Message X received
+2025-02-14 12:54:31 [Info] Publish request received from p1
+2025-02-14 12:54:31 [Info] Enqueuing message from p1
+2025-02-14 12:54:31 [Info] Backing up queues to file...
+2025-02-14 12:54:31 [Info] Queue backed up for p1
+2025-02-14 12:54:31 [Info] Queue backed up for p2
+2025-02-14 12:54:31 [Info] From p1, Message 18 received
+2025-02-14 12:54:32 [Info] Publish request received from p1
+2025-02-14 12:54:32 [Info] Enqueuing message from p1
+2025-02-14 12:54:32 [Info] Backing up queues to file...
+2025-02-14 12:54:32 [Info] Queue backed up for p1
+2025-02-14 12:54:32 [Info] Queue backed up for p2
+2025-02-14 12:54:32 [Info] From p1, Message ccaf7 received
+2025-02-14 12:54:33 [Info] Publish request received from p1
+2025-02-14 12:54:33 [Info] Enqueuing message from p1
+2025-02-14 12:54:33 [Info] Backing up queues to file...
+2025-02-14 12:54:33 [Info] Queue backed up for p1
+2025-02-14 12:54:33 [Info] Queue backed up for p2
+2025-02-14 12:54:33 [Info] From p1, Message 4bcd8 received
+2025-02-14 12:54:34 [Info] Publish request received from p1
+2025-02-14 12:54:34 [Info] Enqueuing message from p1
+2025-02-14 12:54:34 [Info] Backing up queues to file...
+2025-02-14 12:54:34 [Info] Queue backed up for p1
+2025-02-14 12:54:34 [Info] Queue backed up for p2
+2025-02-14 12:54:34 [Info] From p1, Message E received
+2025-02-14 12:54:35 [Info] Publish request received from p1
+2025-02-14 12:54:35 [Info] Enqueuing message from p1
+2025-02-14 12:54:35 [Info] Backing up queues to file...
+2025-02-14 12:54:35 [Info] Queue backed up for p1
+2025-02-14 12:54:35 [Info] Queue backed up for p2
+2025-02-14 12:54:35 [Info] From p1, Message c65f7 received
+2025-02-14 12:54:36 [Info] Publish request received from p1
+2025-02-14 12:54:36 [Info] Enqueuing message from p1
+2025-02-14 12:54:36 [Info] Backing up queues to file...
+2025-02-14 12:54:36 [Info] Queue backed up for p1
+2025-02-14 12:54:36 [Info] Queue backed up for p2
+2025-02-14 12:54:36 [Info] From p1, Message e8c30 received
+2025-02-14 12:54:37 [Info] Publish request received from p1
+2025-02-14 12:54:37 [Info] Enqueuing message from p1
+2025-02-14 12:54:37 [Info] Backing up queues to file...
+2025-02-14 12:54:37 [Info] Queue backed up for p1
+2025-02-14 12:54:37 [Info] Queue backed up for p2
+2025-02-14 12:54:37 [Info] From p1, Message c94b6 received
+2025-02-14 12:54:38 [Info] Publish request received from p1
+2025-02-14 12:54:38 [Info] Enqueuing message from p1
+2025-02-14 12:54:38 [Info] Backing up queues to file...
+2025-02-14 12:54:38 [Info] Queue backed up for p1
+2025-02-14 12:54:38 [Info] Queue backed up for p2
+2025-02-14 12:54:38 [Info] From p1, Message J received
+2025-02-14 12:54:39 [Info] Publish request received from p1
+2025-02-14 12:54:39 [Info] Enqueuing message from p1
+2025-02-14 12:54:39 [Info] Backing up queues to file...
+2025-02-14 12:54:39 [Info] Queue backed up for p1
+2025-02-14 12:54:39 [Info] Queue backed up for p2
+2025-02-14 12:54:39 [Info] From p1, Message 6318e received
+2025-02-14 12:54:40 [Info] Publish request received from p1
+2025-02-14 12:54:40 [Info] Enqueuing message from p1
+2025-02-14 12:54:40 [Info] Backing up queues to file...
+2025-02-14 12:54:40 [Info] Queue backed up for p1
+2025-02-14 12:54:40 [Info] Queue backed up for p2
+2025-02-14 12:54:40 [Info] From p1, Message 11 received
+2025-02-14 12:54:41 [Info] Publish request received from p1
+2025-02-14 12:54:41 [Info] Enqueuing message from p1
+2025-02-14 12:54:41 [Info] Backing up queues to file...
+2025-02-14 12:54:41 [Info] Queue backed up for p1
+2025-02-14 12:54:41 [Info] Queue backed up for p2
+2025-02-14 12:54:41 [Info] From p1, Message 22e6f received
+2025-02-14 12:54:42 [Info] Publish request received from p1
+2025-02-14 12:54:42 [Info] Enqueuing message from p1
+2025-02-14 12:54:42 [Info] Backing up queues to file...
+2025-02-14 12:54:42 [Info] Queue backed up for p1
+2025-02-14 12:54:42 [Info] Queue backed up for p2
+2025-02-14 12:54:42 [Info] From p1, Message 82d6b received
+2025-02-14 12:54:43 [Info] Publish request received from p1
+2025-02-14 12:54:43 [Info] Enqueuing message from p1
+2025-02-14 12:54:43 [Info] Backing up queues to file...
+2025-02-14 12:54:43 [Info] Queue backed up for p1
+2025-02-14 12:54:43 [Info] Queue backed up for p2
+2025-02-14 12:54:43 [Info] From p1, Message Q received
+2025-02-14 12:54:44 [Info] Publish request received from p1
+2025-02-14 12:54:44 [Info] Enqueuing message from p1
+2025-02-14 12:54:44 [Info] Backing up queues to file...
+2025-02-14 12:54:44 [Info] Queue backed up for p1
+2025-02-14 12:54:44 [Info] Queue backed up for p2
+2025-02-14 12:54:44 [Info] From p1, Message R received
+2025-02-14 12:54:45 [Info] Publish request received from p1
+2025-02-14 12:54:45 [Info] Enqueuing message from p1
+2025-02-14 12:54:45 [Info] Backing up queues to file...
+2025-02-14 12:54:45 [Info] Queue backed up for p1
+2025-02-14 12:54:45 [Info] Queue backed up for p2
+2025-02-14 12:54:45 [Info] From p1, Message 57 received
+2025-02-14 12:54:46 [Info] Publish request received from p1
+2025-02-14 12:54:46 [Info] Enqueuing message from p1
+2025-02-14 12:54:46 [Info] Backing up queues to file...
+2025-02-14 12:54:46 [Info] Queue backed up for p1
+2025-02-14 12:54:46 [Info] Queue backed up for p2
+2025-02-14 12:54:46 [Info] From p1, Message 98 received
+2025-02-14 12:54:47 [Info] Publish request received from p1
+2025-02-14 12:54:47 [Info] Enqueuing message from p1
+2025-02-14 12:54:47 [Info] Backing up queues to file...
+2025-02-14 12:54:47 [Info] Queue backed up for p1
+2025-02-14 12:54:47 [Info] Queue backed up for p2
+2025-02-14 12:54:47 [Info] From p1, Message 57665 received
+2025-02-14 12:54:48 [Info] Publish request received from p1
+2025-02-14 12:54:48 [Info] Enqueuing message from p1
+2025-02-14 12:54:48 [Info] Backing up queues to file...
+2025-02-14 12:54:48 [Info] Queue backed up for p1
+2025-02-14 12:54:48 [Info] Queue backed up for p2
+2025-02-14 12:54:48 [Info] From p1, Message H received
+2025-02-14 12:54:59 [Info] Queue request received
+2025-02-14 13:00:24 [Info] Publish request received from p1
+2025-02-14 13:00:24 [Info] Enqueuing message from p1
+2025-02-14 13:00:24 [Info] Backing up queues to file...
+2025-02-14 13:00:24 [Info] Queue backed up for p1
+2025-02-14 13:00:24 [Info] Queue backed up for p2
+2025-02-14 13:00:24 [Info] From p1, Message 47 received
+2025-02-14 13:00:25 [Info] Publish request received from p1
+2025-02-14 13:00:25 [Info] Enqueuing message from p1
+2025-02-14 13:00:25 [Info] Backing up queues to file...
+2025-02-14 13:00:25 [Info] Queue backed up for p1
+2025-02-14 13:00:25 [Info] Queue backed up for p2
+2025-02-14 13:00:25 [Info] From p1, Message 67 received
+2025-02-14 13:05:30 [Info] Message Broker Started...

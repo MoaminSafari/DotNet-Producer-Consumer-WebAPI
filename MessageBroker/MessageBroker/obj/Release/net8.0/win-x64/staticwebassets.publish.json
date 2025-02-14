@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "11Za4MfkRTSn+H7BpS6uvhTjK1+iMJJVFbZ5MlnCUdQ=",
+  "Source": "MessageBroker",
+  "BasePath": "_content/MessageBroker",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MessageBroker\\wwwroot",
+      "Source": "MessageBroker",
+      "ContentRoot": "C:\\Users\\masaf\\OneDrive\\Desktop\\Project\\MessageBroker\\MessageBroker\\wwwroot\\",
+      "BasePath": "_content/MessageBroker",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\masaf\\OneDrive\\Desktop\\Project\\MessageBroker\\MessageBroker\\wwwroot\\index.html",
+      "SourceId": "MessageBroker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\masaf\\OneDrive\\Desktop\\Project\\MessageBroker\\MessageBroker\\wwwroot\\",
+      "BasePath": "_content/MessageBroker",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h1haohxpl0",
+      "Integrity": "Oz+CPlVXVTyCwHBjRaUP0Qy9PV81qwlQxPptIv289BE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.h1haohxpl0.html",
+      "AssetFile": "C:\\Users\\masaf\\OneDrive\\Desktop\\Project\\MessageBroker\\MessageBroker\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oz+CPlVXVTyCwHBjRaUP0Qy9PV81qwlQxPptIv289BE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:56:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h1haohxpl0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oz+CPlVXVTyCwHBjRaUP0Qy9PV81qwlQxPptIv289BE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\masaf\\OneDrive\\Desktop\\Project\\MessageBroker\\MessageBroker\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oz+CPlVXVTyCwHBjRaUP0Qy9PV81qwlQxPptIv289BE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:56:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oz+CPlVXVTyCwHBjRaUP0Qy9PV81qwlQxPptIv289BE="
+        }
+      ]
+    }
+  ]
+}

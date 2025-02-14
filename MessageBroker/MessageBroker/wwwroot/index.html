@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message Queue</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        table {
+            width: 50%;
+            margin: auto;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+
+        button {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Message Queue</h1>
+
+    <input type="text" id="messageInput" placeholder="Enter message">
+    <button onclick="sendMessage()">Publish</button>
+
+    <h2>Queue Status</h2>
+    <table>
+        <thead>
+            <tr><th>#</th><th>Message</th></tr>
+        </thead>
+        <tbody id="queueTable"></tbody>
+    </table>
+
+    <button onclick="fetchQueue()">Refresh Queue</button>
+
+    <script>
+        async function sendMessage() {
+            const message = document.getElementById("messageInput").value;
+            if (!message) return alert("Please enter a message!");
+
+            await fetch("/api/broker/publish", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(message)
+            });
+
+            document.getElementById("messageInput").value = "";
+            fetchQueue(); // Refresh queue
+        }
+
+        async function fetchQueue() {
+            const response = await fetch("/api/broker/queue");
+            const queue = await response.json();
+
+            const tableBody = document.getElementById("queueTable");
+            tableBody.innerHTML = ""; // Clear previous entries
+
+            queue.forEach((msg, index) => {
+                let row = `<tr><td>${index + 1}</td><td>${msg}</td></tr>`;
+                tableBody.innerHTML += row;
+            });
+        }
+
+        // Auto-refresh queue every 3 seconds
+        setInterval(fetchQueue, 3000);
+    </script>
+
+</body>
+</html>

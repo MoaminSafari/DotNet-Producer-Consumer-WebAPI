@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\masaf\\OneDrive\\Desktop\\Project\\ConsumerLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{442FD0B8-6E88-4084-80E7-7B2BF17F44A5}|ConsumerLib\\ConsumerLib.csproj|c:\\users\\masaf\\onedrive\\desktop\\project\\consumerlib\\consumerlib\\class\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442FD0B8-6E88-4084-80E7-7B2BF17F44A5}|ConsumerLib\\ConsumerLib.csproj|solutionrelative:consumerlib\\class\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442FD0B8-6E88-4084-80E7-7B2BF17F44A5}|ConsumerLib\\ConsumerLib.csproj|c:\\users\\masaf\\onedrive\\desktop\\project\\consumerlib\\consumerlib\\interface\\iconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442FD0B8-6E88-4084-80E7-7B2BF17F44A5}|ConsumerLib\\ConsumerLib.csproj|solutionrelative:consumerlib\\interface\\iconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consumer.cs",
+              "DocumentMoniker": "C:\\Users\\masaf\\OneDrive\\Desktop\\Project\\ConsumerLib\\ConsumerLib\\Class\\Consumer.cs",
+              "RelativeDocumentMoniker": "ConsumerLib\\Class\\Consumer.cs",
+              "ToolTip": "C:\\Users\\masaf\\OneDrive\\Desktop\\Project\\ConsumerLib\\ConsumerLib\\Class\\Consumer.cs",
+              "RelativeToolTip": "ConsumerLib\\Class\\Consumer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:58:51.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\masaf\\OneDrive\\Desktop\\Project\\ConsumerLib\\ConsumerLib\\Interface\\IConsumer.cs",
+              "RelativeDocumentMoniker": "ConsumerLib\\Interface\\IConsumer.cs",
+              "ToolTip": "C:\\Users\\masaf\\OneDrive\\Desktop\\Project\\ConsumerLib\\ConsumerLib\\Interface\\IConsumer.cs",
+              "RelativeToolTip": "ConsumerLib\\Interface\\IConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:02:32.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

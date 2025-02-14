@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "MessageBroker.Controller.MessageBrokerController",
+    "Method": "Consume",
+    "RelativePath": "api/broker/consume",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "producer",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MessageBroker.Controller.MessageBrokerController",
+    "Method": "Publish",
+    "RelativePath": "api/broker/publish",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MessageBroker.Controller.PublishRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MessageBroker.Controller.MessageBrokerController",
+    "Method": "GetQueues",
+    "RelativePath": "api/broker/queue",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
